@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "downloadUrl": "https://github.com/skobelsentertainment-creator/MTG_Collection-Tracker/releases/download/v1.1.0/MTG.Collection.Tracker-1.1.0.exe",
   "releaseNotes": "Version 1.1.0 add Binder View, Missing Cards, Collection Manager, protected backups, onboarding, update checking and database compatibility protection."
 }
