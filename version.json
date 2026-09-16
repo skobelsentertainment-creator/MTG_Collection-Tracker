@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "downloadUrl": "https://github.com/skobelsentertainment-creator/MTG_Collection-Tracker/releases/download/v1.1.0/MTG.Collection.Tracker-1.1.0.exe",
-  "releaseNotes": "Version 1.1.0 add Binder View, Missing Cards, Collection Manager, protected backups, onboarding, update checking and database compatibility protection."
+  "version": "1.1.1",
+  "downloadUrl": "https://github.com/skobelsentertainment-creator/MTG_Collection-Tracker/releases/download/v1.1.1/MTG.Collection.Tracker-1.1.1.exe",
+  "releaseNotes": "Version 1.1.1 improves Binder View by reserving slots for every available finish and displaying available but unowned finishes as empty Not Owned slots."
 }
